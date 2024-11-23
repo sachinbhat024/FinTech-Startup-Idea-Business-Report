@@ -13,24 +13,24 @@ MelPay offers an all-in-one payment processing and Point-of-Sale (POS) platform 
 
 **Key features**:
 
-Modern POS Terminals: Support for contactless payments, e-commerce, and more.
+1. Modern POS Terminals: Support for contactless payments, e-commerce, and more.
 
-Real-Time Analytics: Transform transaction data into actionable insights to make better business decisions.
+2. Real-Time Analytics: Transform transaction data into actionable insights to make better business decisions.
 
-Regulatory Compliance: Fully aligned with Australian financial and legal requirements.
+3. Regulatory Compliance: Fully aligned with Australian financial and legal requirements.
 
-Scalability: Solutions that grow with your business, no matter the size.
+4. Scalability: Solutions that grow with your business, no matter the size.
 
 ## Target Market & Benefits
 MelPay is designed for Australian SMBs across industries like retail, hospitality, and online services. With MelPay, businesses will be able to:
 
-Save on costs with competitive transaction fees.
+1. Save on costs with competitive transaction fees.
 
-Delight customers with modern, easy payment options.
+2. Delight customers with modern, easy payment options.
 
-Gain valuable insights through real-time analytics.
+3. Gain valuable insights through real-time analytics.
 
-Ensure peace of mind with secure, regulation-compliant systems.
+4. Ensure peace of mind with secure, regulation-compliant systems.
 
 ## Business Strategy
 Our team of FinTech experts, technology innovators, data scientists, and marketers will ensure MelPay’s success. We’ll focus on:
