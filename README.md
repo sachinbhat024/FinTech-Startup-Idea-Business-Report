@@ -35,5 +35,6 @@ MelPay is designed for Australian SMBs across industries like retail, hospitalit
 ## Business Strategy
 Our team of FinTech experts, technology innovators, data scientists, and marketers will ensure MelPay’s success. We’ll focus on:
 
-Customer-Centric Development: Building a product that’s easy to use and delivers real value.
-Targeted Marketing: Using social media, SEO, and industry partnerships to reach SMBs where they are.
+1. Customer-Centric Development: Building a product that’s easy to use and delivers real value.
+
+2. Targeted Marketing: Using social media, SEO, and industry partnerships to reach SMBs where they are.
