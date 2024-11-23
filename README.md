@@ -25,8 +25,11 @@ Scalability: Solutions that grow with your business, no matter the size.
 MelPay is designed for Australian SMBs across industries like retail, hospitality, and online services. With MelPay, businesses will be able to:
 
 Save on costs with competitive transaction fees.
+
 Delight customers with modern, easy payment options.
+
 Gain valuable insights through real-time analytics.
+
 Ensure peace of mind with secure, regulation-compliant systems.
 
 ## Business Strategy
