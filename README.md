@@ -11,7 +11,7 @@ Many Australian SMBs are stuck using outdated payment systems that result in ine
 ## The Solution
 MelPay offers an all-in-one payment processing and Point-of-Sale (POS) platform designed to simplify transactions and grow businesses.
 
-Key features:
+**Key features**:
 
 Modern POS Terminals: Support for contactless payments, e-commerce, and more.
 
