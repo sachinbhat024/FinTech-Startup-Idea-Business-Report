@@ -1,4 +1,4 @@
-# FinTech-Startup-Business-Plan-Report
+# MelPay: FinTech Business Plan for Australian SMBs
 
 I have 
 developed and established a business plan for a FinTech startup (fictitious) targeting the Australian market. For tackling this task, the venture **MelPay** draws its 
