@@ -38,3 +38,12 @@ Our team of FinTech experts, technology innovators, data scientists, and markete
 1. Customer-Centric Development: Building a product that’s easy to use and delivers real value.
 
 2. Targeted Marketing: Using social media, SEO, and industry partnerships to reach SMBs where they are.
+
+## Technology & Security
+MelPay uses advanced technology to ensure reliability, security, and scalability:
+
+1. AWS Cloud Services: For dependable and scalable infrastructure.
+2. Blockchain: Adds transparency and security to transactions.
+3. Encryption: Keeps sensitive data safe.
+4. Flexible APIs: Seamlessly integrate with payment methods and financial institutions.
+
